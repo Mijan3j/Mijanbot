@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "Mizan🐍🐸-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "100093103000532",
     "100000959749712"
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "100093103000532"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
