@@ -163,7 +163,43 @@ https://www.facebook.com/www.xnxx.com169
         abx.push(fs.createReadStream(__dirname + `/Nayan/join/${o}.png`))
       }
       memLength.sort((a, b) => a - b);
-      (typeof threadData.customJoin == "undefined") ? msg = `Hello {name}\nWelcome to {threadName}\nyou're the {soThanhVien}th member on this group please enjoy"\n─────────────────\n[ {time} - {thu} ]` : msg = threadData.customJoin;
+      (typeof threadData.customJoin == "undefined") ? msg = `{name} 💐💐💐💐💐    ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎ ( ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎⑅⃝✺»̶̶͓͓̽̽𝄞⋆⃝ ️️️️️️️️️️️️️️️●❥𝄞⋆⃝💖
+
+༆̲̲̲̞̎̎̎̎͢ ͜͡✯͜͡পি্ঁনি্ঁক্ঁ⋆⃝ 𝄞বা্ঁড়ি্ঁ⋆⃝ 𝄞ডি্ঁজে্ঁ⋆⃝ 𝄞মি্ঁউ্ঁজি্ঁক্ঁ⋆⃝ 𝄞ব্যা্ঁন্ড্ঁ༆̲̲̲̞̎̎̎̎͢ ꗥ̳̳̳̳̳̳̳𝄞░⃟̎̎̎̎̐ ━༊❥۩)💐💐💥
+
+
+
+༒ গ্রুঁপেঁরঁ পঁক্ষঁ থেঁকেঁ আঁপঁনাঁকেঁ স্বাঁগঁতঁমঁ♥⃝💗   
+
+
+💗🌷ᏔᎬᏞᏟϴᎷᎬ 🌷💗
+
+
+
+
+ 🌷.•°``°•.¸.•°``°•.🌷
+  💗 [Welcome] 💗 
+      `•.¸   💗   ¸.•`  
+          ° •.¸¸.•° 
+┌────💐─────┐                               
+ 🌺 my friend  🌼🌺
+└────💐─────┘     
+         💗🌷💗      
+💋💋   💋💋 　　   
+      💗┊┊┊┊┊💗       　  　 
+
+       💗┊┊┊┊💗
+ 
+        💗┊┊┊💗 　　   
+
+         💗┊┊💗️           
+
+              💗
+
+💐💐 [Welcome] 💐💐
+
+
+🌷আশা করছি আপনি আপনার মূল্যবান সময় এর মধ্যে কিছু সময় আমাদের উপহার দিবেন🥀🌹🌻"\n─────────────────\n[ {time} - {thu} ]` : msg = threadData.customJoin;
       var nameAuthor = await Users.getNameUser(event.author)
       msg = msg
         .replace(/\{iduser}/g, iduser.join(', '))
